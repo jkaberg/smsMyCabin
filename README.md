@@ -23,6 +23,7 @@ Usage
 -----
 
 Once you've setup smstools, modem and RF sender:
+
     $ cd ~
     $ git clone git://git.drogon.net/wiringPi
     $ cd wiringPi
